@@ -23,6 +23,7 @@
 
 [![2](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLuis45&theme=dracula&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/JoaoLuis45/github-readme-stats)
 
+![Snake animation](https://github.com/DanielAretakis/DanielAretakis/blob/output/github-contribution-grid-snake.svg)
 ## 📱Social Midia📱
 
 <br>
