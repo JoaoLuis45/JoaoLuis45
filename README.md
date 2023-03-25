@@ -1,12 +1,12 @@
-### Olá, me chamo João Luis✌️
+### Hello, my name is João Luis✌️
 
 <br>
 
-#### ⌨️ Sou um estudande de ciência da computação, e sou completamente apaixonado por back e front end. Desejo no futuro me tornar um desenvolvedor Full-Stack para alcançar metas e poder realizar projetos pessoais! ⌨️
+#### ⌨️ I'm a Full Stack Software Developer, my dream is to know the world.⌨️
 
 <br>
 
-### ✍️Linguagens e Tecnologias que ultilizo no dia a dia✍️: 
+### ✍️Languages and Technologies✍️: 
 
 <br>
 
@@ -23,14 +23,14 @@
 
 [![2](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLuis45&theme=dracula&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/JoaoLuis45/github-readme-stats)
 
-## 📱Minhas Redes Sociais📱
+## 📱Social Midia📱
 
 <br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaoluis_ramos/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-lu%C3%ADs-427486208/)
 <div style="display: inline_block">
-    <abbr title="(81)9 9794-7843"><img align="center" alt="Numero de WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+    <abbr title="(81)9 9794-7843"><img align="center" alt="WhatsApp Number" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
     </abbr>
     <abbr title="joaoluisramos45@gmail.com"><img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </abbr>
