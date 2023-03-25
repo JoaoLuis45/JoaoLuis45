@@ -20,6 +20,7 @@
 [![Swift](https://img.shields.io/badge/-Swift-white?logo=swift&style=for-the-badge&logoWidth=20)](https://www.apple.com/br/swift/)
 
 ![João Luís GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoLuis45&show_icons=true&theme=merko)
+
 [![2](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLuis45&theme=dracula&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/JoaoLuis45/github-readme-stats)
 
 ## 📱Minhas Redes Sociais📱
