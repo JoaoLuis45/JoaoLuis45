@@ -17,7 +17,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Delphi](https://img.shields.io/badge/-Delphi-CA4245?logo=delphi&style=for-the-badge&logoWidth=20)](https://www.embarcadero.com/br/products/delphi)
-[![Swift](https://img.shields.io/badge/-Swift-white?logo=swift&style=for-the-badge&logoWidth=20)](https://www.apple.com/br/swift/)
+[![Flutter](https://img.shields.io/badge/-Flutter-blue?logo=flutter&style=for-the-badge&logoWidth=20)](https://flutter.dev/)
 
 ![João Luís GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoLuis45&show_icons=true&theme=dracula)
 
