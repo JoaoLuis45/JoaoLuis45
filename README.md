@@ -21,7 +21,7 @@
 
 ![João Luís GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoLuis45&show_icons=true&theme=dracula)
 
-[![2](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLuis45&theme=dracula&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/JoaoLuis45/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLuis45&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Snake animation](https://github.com/Danielaretakis/Danielaretakis/blob/output/github-contribution-grid-snake.svg)
 
